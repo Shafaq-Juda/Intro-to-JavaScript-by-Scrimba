@@ -1,1 +1,2 @@
-This is the start of my JavaScript course by Scrimba. The first thing I am going to build is A Passdenger counter App.
+This is the Passenger Count Application I build using HTML, CSS and JavaScript only.
+
